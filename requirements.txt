@@ -1,4 +1,4 @@
-streamlit
-pillow
-rembg
-numpy
+streamlit==1.61.1
+pillow==12.3.0
+rembg==2.0.69
+numpy==2.2.6
